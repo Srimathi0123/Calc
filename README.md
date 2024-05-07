@@ -133,7 +133,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](https://github.com/Srimathi0123/Calc/assets/118673240/2a3afa06-a2a0-4a95-856e-8b0336974ad6)
+![image](https://github.com/Srimathi0123/Calc/assets/118673240/fa999cf7-3897-4bcd-8b23-6c330c628e55)
+
 
 
 ## RESULT:
